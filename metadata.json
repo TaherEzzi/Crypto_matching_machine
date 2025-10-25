@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Matching Engine Simulator",
+  "description": "A React-based simulation of a cryptocurrency matching engine. It demonstrates core trading functionalities like price-time priority, various order types (Market, Limit, IOC, FOK), and real-time updates of the order book, BBO, and trade history.",
+  "requestFramePermissions": []
+}
